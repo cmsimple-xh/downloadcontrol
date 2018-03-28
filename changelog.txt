@@ -79,3 +79,6 @@ October 2015
 
 1.7.1 - May 2017
 see <https://github.com/cmsimple-xh/downloadcontrol/milestone/1?closed=1>
+
+1.7.2 - March 2018
+see <https://github.com/cmsimple-xh/downloadcontrol/milestone/2?closed=1>
